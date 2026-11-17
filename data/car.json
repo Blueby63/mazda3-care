@@ -1,0 +1,303 @@
+{
+  "_about": "Researched facts for the 2025 Mazda3 Hatchback 2.5 S (US, FWD, 6-speed automatic). Every entry has a source id (see sources) or verify:true. Do not re-research; add to this file instead.",
+  "researchedOn": "2026-11-17",
+  "sources": {
+    "man-sched": { "title": "2025 Mazda3 Owner's Manual: Scheduled Maintenance (U.S.A., Canada, Puerto Rico)", "url": "https://www.mazdausa.com/static/manuals/2025/mazda3/contents/69031000.html" },
+    "man-engine": { "title": "Owner's Manual: Engine specification", "url": "https://www.mazdausa.com/static/manuals/2025/mazda3/contents/70070100.html" },
+    "man-elec": { "title": "Owner's Manual: Electrical System (battery, spark plugs)", "url": "https://www.mazdausa.com/static/manuals/2025/mazda3/contents/70070300.html" },
+    "man-lube": { "title": "Owner's Manual: Lubricant Quality", "url": "https://www.mazdausa.com/static/manuals/2025/mazda3/contents/70070400.html" },
+    "man-cap": { "title": "Owner's Manual: Capacities", "url": "https://www.mazdausa.com/static/manuals/2025/mazda3/contents/70070500.html" },
+    "man-dim": { "title": "Owner's Manual: Dimensions", "url": "https://www.mazdausa.com/static/manuals/2025/mazda3/contents/70070600.html" },
+    "man-bulbs": { "title": "Owner's Manual: Light Bulbs", "url": "https://www.mazdausa.com/static/manuals/2025/mazda3/contents/70070700.html" },
+    "man-tires": { "title": "Owner's Manual: Tires", "url": "https://www.mazdausa.com/static/manuals/2025/mazda3/contents/70070800.html" },
+    "man-oil": { "title": "Owner's Manual: Inspecting Engine Oil / Recommended Oil", "url": "https://www.mazdausa.com/static/manuals/2025/mazda3/contents/69040200.html" },
+    "man-fuel": { "title": "Owner's Manual: Fuel Requirements", "url": "https://www.mazdausa.com/static/manuals/2025/mazda3/contents/65280300.html" },
+    "man-tpms": { "title": "Owner's Manual: How to Use the TPMS", "url": "https://www.mazdausa.com/static/manuals/2025/mazda3/contents/65270300.html" },
+    "man-wrench": { "title": "Owner's Manual: Wrench Indicator Light (oil reset steps)", "url": "https://www.mazdausa.com/static/manuals/2025/mazda3/contents/68143400.html" },
+    "man-wipers": { "title": "Owner's Manual: Replacing Windshield Wiper Blade Rubbers", "url": "https://www.mazdausa.com/static/manuals/2025/mazda3/contents/69050400.html" },
+    "man-keybatt": { "title": "Owner's Manual: How to Replace the Key Battery", "url": "https://www.mazdausa.com/static/manuals/2025/mazda3/contents/69070100.html" },
+    "man-rotate": { "title": "Owner's Manual: Rotating the Tires", "url": "https://www.mazdausa.com/static/manuals/2025/mazda3/contents/69050600.html" },
+    "man-battery": { "title": "Owner's Manual: Inspecting Lead-acid Battery", "url": "https://www.mazdausa.com/static/manuals/2025/mazda3/contents/69040600.html" },
+    "man-lights": { "title": "Owner's Manual: Warning Lights", "url": "https://www.mazdausa.com/static/manuals/2025/mazda3/contents/68140100.html" },
+    "man-pdf": { "title": "2025 Mazda3 Owner's Manual (full PDF)", "url": "https://www.mazdausa.com/siteassets/global-resources/vehicle-resources/owner-manuals/2025/m3s/2025-mazda3-hatchback-sedan-owners-manual.pdf" },
+    "mazda-warranty": { "title": "Mazda USA: Warranty Information", "url": "https://www.mazdausa.com/owners/warranty" },
+    "mazda-warranty-pdf": { "title": "2025 Mazda Warranty Information booklet (PDF)", "url": "https://www.mazdausa.com/siteassets/global-resources/vehicle-resources/owner-manuals/2025/2025-warranty-information.pdf" },
+    "nhtsa-recalls-api": { "title": "NHTSA recalls API: 2025 Mazda3", "url": "https://api.nhtsa.gov/recalls/recallsByVehicle?make=MAZDA&model=MAZDA3&modelYear=2025" },
+    "nhtsa-25v357": { "title": "NHTSA recall report 25V-357", "url": "https://static.nhtsa.gov/odi/rcl/2025/RCLRPT-25V357-7814.pdf" },
+    "nhtsa-lookup": { "title": "NHTSA: check recalls by VIN", "url": "https://www.nhtsa.gov/recalls" },
+    "mazda-recall-lookup": { "title": "Mazda USA: recall lookup by VIN", "url": "https://www.mazdausa.com/owners/recalls" },
+    "mazda-news-pricing": { "title": "Mazda USA news: 2025 Mazda3 pricing and packaging", "url": "https://news.mazdausa.com/2024-06-06-2025-Mazda3-Pricing-and-Packaging" },
+    "wa-specs": { "title": "Washington State fleet spec sheet: 2025 Mazda3 S Hatchback FWD", "url": "https://apps.des.wa.gov/CARS/VehicleSpecifications.aspx?id=2757" },
+    "parts-oilfilter": { "title": "Mazda parts catalog: oil filter listing", "url": "https://www.mazdapartsnow.com/oem-2019-mazda-3-oil_filter" },
+    "nhtsa-tsb-1": { "title": "NHTSA-filed Mazda bulletin MC-11022718 (2025 software update)", "url": "https://static.nhtsa.gov/odi/tsbs/2025/MC-11022718-0001.pdf" },
+    "nhtsa-vpic": { "title": "NHTSA VIN decoder (vPIC): confirmed 2.5 L, 191 hp, cylinder deactivation, FWD, standard driver aids", "url": "https://vpic.nhtsa.dot.gov/decoder/" },
+    "mazda-cpo": { "title": "Mazda USA: About Certified Pre-Owned Vehicles", "url": "https://portal.mazdausa.com/m176/MusaWeb/CPOAbout.touch.action" },
+    "man-cyl": { "title": "Owner's Manual: Cylinder Deactivation", "url": "https://www.mazdausa.com/static/manuals/2025/mazda3/contents/65750100.html" },
+    "man-iact": { "title": "Owner's Manual: i-Activsense", "url": "https://www.mazdausa.com/static/manuals/2025/mazda3/contents/65300100.html" },
+    "man-epb": { "title": "Owner's Manual: Electric Parking Brake", "url": "https://www.mazdausa.com/static/manuals/2025/mazda3/contents/65100200.html" },
+    "man-autohold": { "title": "Owner's Manual: AUTOHOLD", "url": "https://www.mazdausa.com/static/manuals/2025/mazda3/contents/65120200.html" },
+    "man-tpms-about": { "title": "Owner's Manual: Tire Pressure Monitoring System", "url": "https://www.mazdausa.com/static/manuals/2025/mazda3/contents/65270100.html" },
+    "man-deadkey": { "title": "Owner's Manual: Starting the Engine With a Dead Key Battery", "url": "https://www.mazdausa.com/static/manuals/2025/mazda3/contents/68040300.html" },
+    "man-jump": { "title": "Owner's Manual: Depleted Battery (jump starting)", "url": "https://www.mazdausa.com/static/manuals/2025/mazda3/contents/68050100.html" },
+    "man-overheat": { "title": "Owner's Manual: Overheating", "url": "https://www.mazdausa.com/static/manuals/2025/mazda3/contents/68060100.html" },
+    "man-flat": { "title": "Owner's Manual: Changing a Flat Tire", "url": "https://www.mazdausa.com/static/manuals/2025/mazda3/contents/68080200.html" }
+  },
+
+  "vehicle": {
+    "name": "2025 Mazda3 Hatchback 2.5 S",
+    "engine": { "v": "SKYACTIV-G 2.5: 2.5 L (2,488 cc) 4-cylinder, DOHC 16-valve, compression 13.0:1", "src": "man-engine" },
+    "power": { "v": "191 hp, with cylinder deactivation (runs on 2 cylinders when cruising to save fuel)", "src": "mazda-news-pricing", "note": "Cylinder deactivation matters: it decides which spark plug, transmission fluid, and coolant amount apply. Confirm on your window sticker." },
+    "transmission": { "v": "6-speed automatic, front-wheel drive", "src": "nhtsa-vpic" },
+    "epaMpg": { "v": "27 city / 35 highway / 30 combined", "src": "mazda-news-pricing", "verify": true }
+  },
+
+  "schedule": {
+    "_note": "Mazda's US schedule counts 'maintenance visits'. Each visit is due when the wrench light / message comes on, and no later than 10,000 miles or 12 months after the last one. Miles/months below are those maximums. A = every visit, B = every 2nd visit, C = every 4th visit.",
+    "src": "man-sched",
+    "modes": {
+      "normal": { "oilMiles": 10000, "oilMonths": 12, "label": "Normal (flexible): oil when the wrench light says so, at most every 10,000 miles or 12 months" },
+      "severe": { "oilMiles": 5000, "oilMonths": 6, "label": "Severe: oil every 5,000 miles or 6 months. Everything else stays on the normal intervals." }
+    },
+    "severeConditions": [
+      "Idling for long periods or driving at low speeds most of the time (police, taxi, driving-school use)",
+      "Driving mainly on unpaved roads",
+      "Driving mainly on mountain or uphill roads"
+    ],
+    "recommendation": "Normal. Short trips and mixed driving around Augusta are not on Mazda's US severe list. But lots of short trips make the car's own oil-life monitor call for oil sooner, so always obey the wrench light. At 300-500 miles a month the 12-month limit will arrive long before 10,000 miles.",
+    "items": [
+      { "id": "oil", "name": "Engine oil and filter", "action": "Replace", "miles": 10000, "months": 12, "severeMiles": 5000, "severeMonths": 6, "category": "Oil", "note": "Reset the oil data in the car after every change." },
+      { "id": "rotate", "name": "Tire rotation", "action": "Rotate", "miles": 10000, "months": null, "category": "Tires" },
+      { "id": "inspectA", "name": "Basic inspection", "action": "Inspect", "miles": 10000, "months": 12, "category": "Inspection", "includes": ["Drive belts", "Coolant level", "Brake fluid level", "Disc brakes (pads and rotors)", "Tire pressure and tire wear (and the spare)", "All lights working"] },
+      { "id": "inspectB", "name": "Underbody and steering inspection", "action": "Inspect", "miles": 20000, "months": 24, "category": "Inspection", "includes": ["Fuel lines and hoses", "Brake booster and hose", "Brake lines, hoses and connections", "Steering operation and linkages", "Suspension, ball joints, wheel bearings", "Driveshaft dust boots", "Tighten chassis and body bolts and nuts"] },
+      { "id": "inspectC", "name": "Exhaust and emission hose inspection", "action": "Inspect", "miles": 40000, "months": 48, "category": "Inspection", "includes": ["Hoses and tubes for emissions", "Exhaust system and heat shields"] },
+      { "id": "airFilter", "name": "Engine air filter", "action": "Replace", "miles": 30000, "months": 36, "category": "Filters", "note": "Manual: every 3rd maintenance visit." },
+      { "id": "cabinFilter", "name": "Cabin air filter", "action": "Replace", "miles": 30000, "months": 24, "category": "Filters" },
+      { "id": "sparkPlugs", "name": "Spark plugs", "action": "Replace", "miles": 75000, "months": null, "category": "Engine" },
+      { "id": "coolant", "name": "Engine coolant (FL-22)", "action": "Replace", "firstMiles": 120000, "firstMonths": 120, "miles": 60000, "months": 60, "category": "Fluids", "note": "First change at 120,000 miles or 10 years, then every 60,000 miles or 5 years. Only FL-22 type coolant." }
+    ],
+    "_tireKitNote": "Mazda's schedule also says to inspect the flat tire repair kit yearly 'if equipped'. The 2.5 S comes with a temporary spare instead (see man-tires and mazda-news-pricing), so the kit item is left out; the spare is checked with the basic inspection.",
+    "notInSchedule": [
+      { "name": "Automatic transmission fluid", "fact": "Mazda says periodic replacement is unnecessary.", "src": "man-lube" },
+      { "name": "Brake fluid flush", "fact": "Not in the US schedule. Only the level is inspected at each visit.", "src": "man-sched" },
+      { "name": "Fuel injector / fuel system cleaning", "fact": "Not in the schedule. The manual says never to add fuel additives other than a genuine Mazda product.", "src": "man-fuel" },
+      { "name": "Engine flush, throttle body service, power steering flush", "fact": "Not in the schedule. Steering is electric, so there is no power steering fluid.", "src": "man-sched" },
+      { "name": "Coolant flush before 120,000 miles / 10 years", "fact": "First coolant change is at 120,000 miles or 120 months.", "src": "man-sched" },
+      { "name": "Wheel alignment, tire balancing", "fact": "Not scheduled. Only needed for uneven tire wear, pulling, or vibration.", "src": "man-rotate" },
+      { "name": "3,000-mile oil changes", "fact": "Mazda's limit is 10,000 miles or 12 months (5,000 miles or 6 months for severe use).", "src": "man-sched" }
+    ]
+  },
+
+  "specs": [
+    { "group": "Engine oil", "rows": [
+      { "k": "Type", "v": "SAE 0W-20, API 'Certified for Gasoline Engines' (Mazda Genuine 0W-20 recommended)", "src": "man-oil" },
+      { "k": "Amount with filter change", "v": "4.8 US quarts (4.5 L)", "src": "man-cap" },
+      { "k": "Amount without filter change", "v": "4.5 US quarts (4.3 L)", "src": "man-cap" },
+      { "k": "Oil filter (Mazda part number)", "v": "1WPE-14-302 (replaces PE01-14-302A/B)", "src": "parts-oilfilter", "verify": true, "verifyNote": "From a parts catalog. Confirm against your VIN at a Mazda parts counter." }
+    ]},
+    { "group": "Other fluids", "rows": [
+      { "k": "Coolant", "v": "FL-22 type; 7.3 US quarts (6.9 L) with cylinder deactivation", "src": "man-cap" },
+      { "k": "Automatic transmission fluid", "v": "Mazda Genuine ATF A7 (with cylinder deactivation); 8.0 US quarts (7.6 L). No periodic replacement.", "src": "man-lube" },
+      { "k": "Brake fluid", "v": "SAE J1703 or FMVSS116 DOT 3", "src": "man-lube" },
+      { "k": "Fuel", "v": "Regular unleaded, 87 octane or higher, no more than 10% ethanol (E10)", "src": "man-fuel" },
+      { "k": "Fuel tank", "v": "13.2 US gallons (50 L)", "src": "man-cap" },
+      { "k": "Washer fluid", "v": "Any standard windshield washer fluid", "verify": true }
+    ]},
+    { "group": "Tires and wheels", "rows": [
+      { "k": "Tire size (2.5 S, 16-inch wheels)", "v": "205/60R16 92H all-season", "src": "man-tires", "note": "Always confirm on the sticker inside the driver's door frame." },
+      { "k": "Pressure (cold)", "v": "36 psi front, 36 psi rear", "src": "man-tires" },
+      { "k": "Temporary spare", "v": "T125/70D16, 60 psi", "src": "man-tires" },
+      { "k": "Lug nut torque", "v": "80-108 ft-lbf (108-147 N·m)", "src": "man-tires" }
+    ]},
+    { "group": "Battery and ignition", "rows": [
+      { "k": "12V battery", "v": "LN2, 55D23L or 75D23L (12V, 60-65 Ah). Match what is installed.", "src": "man-elec" },
+      { "k": "Spark plugs (with cylinder deactivation)", "v": "Mazda P5SP-18110 (iridium)", "src": "man-elec" },
+      { "k": "Key fob battery", "v": "CR2032 coin cell", "verify": true }
+    ]},
+    { "group": "Lights", "rows": [
+      { "k": "Headlights, daytime lights, turn signals, brake, tail, reverse, license plate", "v": "All LED. No bulbs to replace; a failed light is a dealer repair.", "src": "man-bulbs" },
+      { "k": "Parking / front side-marker lights", "v": "LED, or WY5W 5-watt bulb on some cars", "src": "man-bulbs" },
+      { "k": "Interior and cargo lights", "v": "LED", "src": "man-bulbs" }
+    ]},
+    { "group": "Filters and wipers", "rows": [
+      { "k": "Engine air filter part number", "v": "Not confirmed", "verify": true },
+      { "k": "Cabin air filter part number", "v": "Not confirmed", "verify": true },
+      { "k": "Wiper blade sizes (front and rear)", "v": "Not listed in the manual", "verify": true, "verifyNote": "Measure the blades or ask a parts counter with your VIN." }
+    ]},
+    { "group": "Size and weight", "rows": [
+      { "k": "Length / width / height", "v": "175.6 in / 70.7 in / 56.7 in", "src": "man-dim" },
+      { "k": "Wheelbase", "v": "107.3 in", "src": "man-dim" }
+    ]}
+  ],
+
+  "warranty": {
+    "_note": "All periods start on the original in-service date (the day the first owner took delivery), not your purchase date. Whichever limit comes first.",
+    "items": [
+      { "id": "basic", "name": "New-Vehicle Limited Warranty (bumper-to-bumper)", "months": 36, "miles": 36000, "transferable": true, "src": "mazda-warranty" },
+      { "id": "powertrain", "name": "Powertrain Limited Warranty (engine, transmission, drive axles)", "months": 60, "miles": 60000, "transferable": true, "src": "mazda-warranty" },
+      { "id": "roadside", "name": "24/7 Roadside Assistance (1-800-866-1998)", "months": 36, "miles": 36000, "src": "mazda-warranty", "note": "Towing for a failed powertrain part is covered through 60 months / 60,000 miles." },
+      { "id": "other", "name": "Rust-through, emissions, and safety restraint coverage", "verify": true, "src": "mazda-warranty-pdf", "note": "Terms are in the warranty booklet." }
+    ],
+    "cpo": {
+      "_note": "Only applies if a Mazda dealer sold the car as Mazda Certified Pre-Owned. Transfers to later owners at no cost. Ask a Mazda dealer to look up the VIN.",
+      "src": "mazda-cpo",
+      "items": [
+        { "id": "cpoPowertrain", "name": "Mazda CPO powertrain warranty", "months": 84, "miles": 100000, "note": "Counts from the original in-service date." },
+        { "id": "cpoBasic", "name": "Mazda CPO limited warranty", "startsAfter": "basic", "months": 12, "miles": 12000, "note": "Starts when the 3-year/36,000-mile factory warranty ends." }
+      ]
+    },
+    "keepInMind": "Mazda ties warranty coverage to following the factory maintenance schedule. Keep every receipt. You do not have to use a Mazda dealer for maintenance."
+  },
+
+  "recalls": {
+    "asOf": "2026-11-17",
+    "src": "nhtsa-recalls-api",
+    "checkLinks": ["nhtsa-lookup", "mazda-recall-lookup"],
+    "items": [
+      { "campaign": "25V357000", "mazdaNumber": "7525E", "date": "2025-05-29", "component": "Air bag control module software",
+        "summary": "On certain 2024-2025 Mazda3 cars (built May 25, 2023 to Jan 15, 2025), the air bag sensor unit can set an error after a low-battery condition and switch the air bags off.",
+        "risk": "Air bags may not deploy in a crash.", "fix": "Dealer reprograms or replaces the unit, free.", "parkIt": false, "src": "nhtsa-25v357" }
+    ],
+    "bulletins": [
+      { "id": "MC-11022718", "summary": "Mazda service bulletin: a software update for some 2025 Mazda3 built before spring 2025. Not a recall; ask the dealer if it applies to your VIN.", "src": "nhtsa-tsb-1", "verify": true }
+    ],
+    "ownerReports": [
+      { "summary": "Infotainment (Mazda Connect) glitches such as blank screen or reboots, usually fixed by a dealer software update.", "label": "Owner reports", "verify": true }
+    ]
+  },
+
+  "warningLights": {
+    "_levels": { "stop": "Pull over safely now", "soon": "Book service soon", "info": "Easy fix or reminder" },
+    "src": "man-lights",
+    "items": [
+      { "id": "brake", "name": "Brake system (red)", "level": "stop", "means": "Brake fluid is low or the brake system has a fault.", "do": "Stop in a safe place. Do not keep driving. Call a Mazda dealer or roadside assistance." },
+      { "id": "charging", "name": "Charging system (red battery)", "level": "stop", "means": "The battery is not being charged.", "do": "Stop in a safe place. The engine could shut off if you keep driving." },
+      { "id": "oilPressure", "name": "Engine oil pressure (red oil can)", "level": "stop", "means": "Oil pressure has dropped.", "do": "Stop and turn the engine off right away. Driving on can destroy the engine. Have it towed." },
+      { "id": "coolantTemp", "name": "High coolant temperature (red)", "level": "stop", "means": "The engine is overheating.", "do": "Stop safely and follow the message on the display. Do not drive until it cools. Never open a hot radiator cap." },
+      { "id": "steering", "name": "Power steering", "level": "stop", "means": "Electric power steering fault. Steering still works but is heavy.", "do": "Stop safely, switch the car off, wait, and restart. If the light returns, see a dealer." },
+      { "id": "absBrake", "name": "ABS and brake lights together", "level": "stop", "means": "Brake force distribution may not work; rear wheels could lock in a hard stop.", "do": "Stop in a safe place and call a dealer." },
+      { "id": "checkEngine", "name": "Check engine", "level": "stop", "means": "Engine, emissions, or transmission control problem. A nearly empty tank can also trigger it.", "do": "Mazda's manual says park in a safe place right away and contact a dealer. Don't disconnect the battery while it's on." },
+      { "id": "at", "name": "Automatic transmission", "level": "stop", "means": "Transmission fault.", "do": "Do not keep driving; the transmission can be damaged. Call a dealer." },
+      { "id": "abs", "name": "ABS", "level": "soon", "means": "Anti-lock brakes have a fault. Normal braking still works.", "do": "Book a dealer inspection." },
+      { "id": "master", "name": "Master warning (triangle)", "level": "soon", "means": "A system has something to tell you.", "do": "Read the message on the cluster or center display and follow it." },
+      { "id": "brakeControl", "name": "Brake control system", "level": "soon", "means": "Brake control system fault.", "do": "Book a dealer inspection." },
+      { "id": "epb", "name": "Electric parking brake", "level": "soon", "means": "Normal when the parking brake is on. Staying on after release, or flashing, means a fault.", "do": "If it stays on or flashes after you release the brake, see a dealer." },
+      { "id": "tpmsOn", "name": "Tire pressure (steady)", "level": "soon", "means": "One or more tires are low.", "do": "Slow down, avoid hard braking, and set all tires to 36 psi when cold. The light goes out by itself, or after driving 3+ minutes above 16 mph. If it stays on, a tire may be punctured.", "src": "man-tpms" },
+      { "id": "tpmsFlash", "name": "Tire pressure (flashing)", "level": "soon", "means": "The tire pressure monitor itself has a fault.", "do": "Check pressures by hand and see a dealer." },
+      { "id": "tcs", "name": "Traction / stability control (steady)", "level": "soon", "means": "Stability control, traction control, or hill-launch assist may have a fault. Brief flashing while driving is normal: it is working.", "do": "If it stays on, book a dealer inspection." },
+      { "id": "airbag", "name": "Air bag / seat belt pretensioner", "level": "soon", "means": "The air bag system may not work in a crash. Linked to recall 25V357.", "do": "See a dealer promptly. Never work on air bags yourself." },
+      { "id": "keyRed", "name": "KEY (red)", "level": "soon", "means": "Key system fault, or the key is out of range.", "do": "Follow the message. If the start button also flashes amber the engine may not restart; see a dealer." },
+      { "id": "security", "name": "Security (car with key)", "level": "soon", "means": "Immobilizer problem if it comes on while driving.", "do": "Do not switch the engine off; drive to a dealer. It may not restart." },
+      { "id": "iActivsense", "name": "i-Activsense (driver aids)", "level": "soon", "means": "A safety-assist system (radar, camera) has a problem or is blocked.", "do": "Follow the message. Clean the windshield camera area and front emblem." },
+      { "id": "hbc", "name": "High beam control (amber)", "level": "soon", "means": "Automatic high beam fault.", "do": "Book a dealer inspection." },
+      { "id": "extLights", "name": "Exterior lights", "level": "soon", "means": "An outside light has failed.", "do": "Have it fixed before driving at night. The lights are LED, so this is a dealer repair." },
+      { "id": "oilLevel", "name": "Engine oil level (amber)", "level": "soon", "means": "Oil level is near the MIN mark.", "do": "Add about 1 quart of 0W-20 oil soon, then recheck the dipstick." },
+      { "id": "wrench", "name": "Wrench", "level": "info", "means": "Scheduled maintenance (usually the oil change) is due.", "do": "Book service. After the oil change the reminder must be reset.", "src": "man-wrench" },
+      { "id": "fuel", "name": "Low fuel", "level": "info", "means": "The tank is nearly empty.", "do": "Refuel now." },
+      { "id": "fuelCap", "name": "Check fuel cap", "level": "info", "means": "The fuel cap may be loose.", "do": "Stop, turn the engine off, and refit the cap until it clicks." },
+      { "id": "seatbelt", "name": "Seat belt", "level": "info", "means": "Someone is not buckled.", "do": "Buckle up." },
+      { "id": "washer", "name": "Low washer fluid", "level": "info", "means": "Washer fluid is low.", "do": "Top up the washer tank." },
+      { "id": "door", "name": "Door / liftgate / hood open", "level": "info", "means": "Something is not fully closed.", "do": "Close it firmly." },
+      { "id": "keyGreen", "name": "KEY (green, flashing)", "level": "info", "means": "The key fob battery is low.", "do": "Replace the key battery." }
+    ]
+  },
+
+  "howTos": [
+    { "id": "oilReset", "title": "Reset the oil change reminder", "src": "man-wrench", "steps": [
+      "Switch the car on (engine can be off).",
+      "On the Mazda Connect home screen choose Information.",
+      "Choose Vehicle Status Monitor, then Vehicle Maintenance Settings.",
+      "Choose Reset Oil Change Distance and confirm."
+    ], "note": "Do this after every oil change, even if the wrench light was not on. Shops sometimes forget." },
+    { "id": "tpms", "title": "Tire pressure light: check, fill, reset", "src": "man-tpms", "steps": [
+      "Check pressures on the center display: Information, Vehicle Status Monitor, Maintenance Details. Or use a gauge.",
+      "With tires cold (before driving), fill all four to 36 psi.",
+      "The light should go out by itself. If not, drive 3 minutes or more above 16 mph.",
+      "Still on? A tire may be leaking. Have it checked."
+    ], "note": "There is no reset button. After new tires or wheels: wait 19 minutes parked, then drive 3+ minutes above 16 mph so the car learns the sensors." },
+    { "id": "oilCheck", "title": "Check the engine oil level", "src": "man-oil", "steps": [
+      "Park on level ground with the engine warmed up, then switch off and wait 5 minutes.",
+      "Pull the dipstick, wipe it, push it fully back in, and pull it again.",
+      "The level should be between MIN and MAX.",
+      "Near or below MIN: add 0W-20 oil a little at a time up to MAX. Do not overfill."
+    ] },
+    { "id": "wipers", "title": "Replace the front wiper blades", "src": "man-wipers", "steps": [
+      "Switch the car on, then off.",
+      "Within 30 seconds push the wiper stalk up to MIST twice. The wipers move to the service position.",
+      "Lift the wiper arms off the glass.",
+      "Press the tab on the arm and slide the blade off. Slide the new one on until it clicks.",
+      "Lower the arms gently onto the glass."
+    ], "note": "Never lift the arms without using the service position first; they can hit the hood." },
+    { "id": "keyBattery", "title": "Replace the key fob battery", "src": "man-keybatt", "steps": [
+      "Slide the release knob and remove the lower cover (the metal key part).",
+      "Press the tab, then gently twist a tape-wrapped flat screwdriver in the gap to remove the upper cover.",
+      "Lift out the cap and the old battery.",
+      "Fit the new battery with the + side facing up, then refit the cap and covers."
+    ] },
+    { "id": "rotate", "title": "Tire rotation basics", "src": "man-rotate", "steps": [
+      "Rotate every 10,000 miles (do it with each oil service).",
+      "Do not include the temporary spare.",
+      "Directional tires go front to back on the same side only.",
+      "Afterward set pressures to 36 psi and tighten lug nuts to 80-108 ft-lbf."
+    ] }
+  ],
+
+  "baselineExtras": [
+    { "id": "recall", "title": "Confirm there are no open recalls", "detail": "Enter your VIN at nhtsa.gov/recalls, or ask any Mazda dealer. Recall 7525E (air bag sensor) covers some 2025 Mazda3s. Recall repairs are free.", "src": "nhtsa-lookup" },
+    { "id": "records", "title": "Ask CarMax for reconditioning records", "detail": "CarMax may have changed the oil or replaced parts before selling. If you get paperwork, log it as a past record so the schedule starts from the right point." },
+    { "id": "battery", "title": "Have the 12V battery tested", "detail": "Free at most auto parts stores. Heat is hard on batteries, and a weak battery can trigger the air bag sensor problem covered by recall 7525E." },
+    { "id": "tires", "title": "Check tire pressure and tread", "detail": "Set all four tires to 36 psi when cold. Check the tread for uneven wear.", "src": "man-tires" },
+    { "id": "fluids", "title": "Look at the fluid levels", "detail": "Engine oil (dipstick), coolant, and brake fluid should sit between MIN and MAX. Top up the washer fluid.", "src": "man-oil" },
+    { "id": "spare", "title": "Find the spare tire and jack", "detail": "Look under the cargo floor. The temporary spare should be at 60 psi.", "src": "man-tires" }
+  ],
+
+  "knowYourCar": [
+    { "title": "Engine", "body": "A 2.5-liter 4-cylinder (Mazda calls it SKYACTIV-G 2.5) making 191 horsepower. It runs on regular 87-octane gas and takes 0W-20 oil.", "src": "man-engine" },
+    { "title": "Cylinder deactivation", "body": "When you cruise gently, the engine shuts off 2 of its 4 cylinders to save fuel, then turns them back on when you need power. You normally won't feel it. It's also why your car needs specific spark plugs and transmission fluid.", "src": "man-cyl" },
+    { "title": "Transmission", "body": "A 6-speed automatic driving the front wheels. Mazda says the transmission fluid doesn't need periodic replacement.", "src": "man-lube" },
+    { "title": "Brakes", "body": "Disc brakes with anti-lock brakes (ABS) and stability control. The parking brake is electric: a switch on the console instead of a lever. AUTOHOLD can hold the car at a stop so you can take your foot off the brake.", "src": "man-epb" },
+    { "title": "Steering", "body": "Electric power steering, so there's no power steering fluid to check or flush. If a shop offers a power steering flush, you don't need it.", "src": "man-lights" },
+    { "title": "Tires and pressure sensors", "body": "Each wheel has a pressure sensor. The tire pressure light comes on when a tire is low. You can see each tire's pressure on the center screen.", "src": "man-tpms-about" },
+    { "title": "Driver aids (i-Activsense)", "body": "Standard on your car: radar cruise control, blind spot monitoring, rear cross traffic alert, automatic emergency braking, lane keep assist and lane departure warning, and automatic high beams. They rely on a camera at the top of the windshield and a radar in the front grille, so keep both clean.", "src": "nhtsa-vpic" },
+    { "title": "Keys and starting", "body": "Keyless entry and push-button start. If the key fob battery dies, the manual explains how to start the car anyway.", "src": "man-deadkey" },
+    { "title": "Lights", "body": "All the main exterior lights are LED. They last a long time, but a failed one is a dealer repair, not a bulb swap.", "src": "man-bulbs" },
+    { "title": "Mazda Connect screen", "body": "The center screen (8.8 inches), worked by the knob on the console. It has Apple CarPlay and Android Auto. Under Information, then Vehicle Status Monitor, you'll find tire pressures and the oil reminder reset.", "src": "mazda-news-pricing" },
+    { "title": "Fuel", "body": "13.2-gallon tank. Regular unleaded, 87 octane or higher, up to 10% ethanol. Don't add fuel additives other than Mazda's own.", "src": "man-fuel" }
+  ],
+
+  "howTosExtra": [
+    { "id": "airFilter", "title": "Replace the engine air filter", "verify": true, "steps": [
+      "Buy the correct filter for a 2025 Mazda3 2.5 (a parts store can look it up).",
+      "Open the hood. The air filter box is the large black plastic box connected to the big intake hose.",
+      "Release the clips on the box cover and lift the cover.",
+      "Note which way the old filter sits, take it out, and wipe out any leaves or dirt.",
+      "Put the new filter in the same way, close the cover, and fasten every clip."
+    ], "note": "The owner's manual doesn't show this job. If anything looks different, stop and check with a shop." },
+    { "id": "cabinFilter", "title": "Replace the cabin air filter", "verify": true, "steps": [
+      "Buy the correct cabin filter for a 2025 Mazda3.",
+      "Empty the glove box. The filter is usually behind it.",
+      "Release the glove box so it swings down further, then open the small filter cover.",
+      "Slide out the old filter, noting the airflow arrow.",
+      "Slide in the new one with the arrow facing the same way, then refit the cover and glove box."
+    ], "note": "The owner's manual doesn't show this job. Search a video for '2025 Mazda3 cabin filter' to see it first." },
+    { "id": "jump", "title": "Dead battery: jump starting", "src": "man-jump", "verify": true, "steps": [
+      "Turn everything off in both cars. Wear eye protection if you have it.",
+      "Follow the manual's page (link below) for where to connect the cables on your car.",
+      "Connect red to the dead battery's + terminal, then red to the good battery's +.",
+      "Connect black to the good battery's -, then the other black end to bare metal on your engine, away from the battery.",
+      "Start the good car, wait a few minutes, then start yours. Remove the cables in reverse order."
+    ] },
+    { "id": "overheat", "title": "Engine overheating", "src": "man-overheat", "verify": true, "steps": [
+      "Pull over somewhere safe and park.",
+      "If you see steam coming from under the hood, turn the engine off and stay away until it stops.",
+      "Never open the coolant cap while the engine is hot. It can spray scalding coolant.",
+      "Call Mazda Roadside (1-800-866-1998, within the first 3 years / 36,000 miles) or a tow service."
+    ] },
+    { "id": "flat", "title": "Flat tire: putting on the spare", "src": "man-flat", "verify": true, "steps": [
+      "Pull off the road onto flat, firm ground. Turn on the hazards and set the parking brake.",
+      "Get the temporary spare, jack, and wrench from under the cargo floor.",
+      "Loosen the lug nuts slightly before you jack the car up. Use only the jack points shown in the manual.",
+      "Swap the wheel, snug the nuts in a star pattern, lower the car, then tighten firmly.",
+      "Spare: 60 psi. Drive gently, keep under 50 mph, and get the flat fixed soon. Afterward, torque the lug nuts to 80-108 ft-lbf."
+    ] }
+  ]
+}

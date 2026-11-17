@@ -1,0 +1,9 @@
+{
+  "name": "mazda3-care",
+  "private": true,
+  "type": "module",
+  "description": "Offline maintenance PWA. No dependencies, no build step.",
+  "scripts": {
+    "test": "node --test"
+  }
+}

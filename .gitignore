@@ -1,0 +1,6 @@
+# local tooling, never publish
+.claude/
+node_modules/
+*.pdf
+# Phase 1 design preview, not part of the app
+preview/
