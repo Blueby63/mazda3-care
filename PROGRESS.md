@@ -11,7 +11,15 @@ Personal offline PWA for a 2025 Mazda3 Hatchback 2.5 S. Car facts and sources li
   - Commits use the owner's GitHub noreply address (set in this repo's local git config).
   - Pushing from Claude's shell fails because Git Credential Manager needs an interactive sign-in. Push from the Terminal panel; after the first sign-in the credential is cached.
   - Install, update, and backup steps for the owner are in README.md.
+  - Live checks done:
+    - Service worker active, all 20 files cached.
+    - **0 requests to other origins.**
+    - Manifest loads.
+    - Live update from v1.0.0 to v1.0.1 swapped caches.
+    - A clean first visit no longer reloads itself (fixed in v1.0.1; before the fix, a half-typed setup form could be wiped).
+  - Offline was proven locally (server stopped, app fully loaded). The browser pane can't toggle network on the live site, so the airplane-mode check on the phone is the owner's step.
   - Remaining owner checks on the phone: install, the airplane-mode test, the first backup, and confirming the "Verify" items.
+- Current version: **1.0.1**.
 
 ## Phase 2 decisions
 - The owner's history report was reviewed: no service records, "Estimated In Service" date shown, one owner, no open recalls listed. **Personal details (VIN, dates) are NOT stored in the repo.** The owner enters them in the app.
