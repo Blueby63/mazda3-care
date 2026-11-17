@@ -5,7 +5,13 @@ Personal offline PWA for a 2025 Mazda3 Hatchback 2.5 S. Car facts and sources li
 ## Status
 - **Phase 1 (research + plan): DONE 2026-11-17.**
 - **Phase 2 (build): DONE 2026-11-17.** All must-haves plus fuel/MPG, cost charts, and the documents vault. The owner picked **Direction B (Cluster)**. Waiting for the go-ahead on Phase 3.
-- Phase 3 (deploy to GitHub Pages, install on Android, hand-off steps): not started. The owner has a GitHub account.
+- **Phase 3 (deploy + hand-off): DONE 2026-11-17.**
+  - Live at https://blueby63.github.io/mazda3-care/
+  - Repo: https://github.com/Blueby63/mazda3-care (public, GitHub Pages from `main` / root, `.nojekyll`)
+  - Commits use the owner's GitHub noreply address (set in this repo's local git config).
+  - Pushing from Claude's shell fails because Git Credential Manager needs an interactive sign-in. Push from the Terminal panel; after the first sign-in the credential is cached.
+  - Install, update, and backup steps for the owner are in README.md.
+  - Remaining owner checks on the phone: install, the airplane-mode test, the first backup, and confirming the "Verify" items.
 
 ## Phase 2 decisions
 - The owner's history report was reviewed: no service records, "Estimated In Service" date shown, one owner, no open recalls listed. **Personal details (VIN, dates) are NOT stored in the repo.** The owner enters them in the app.
