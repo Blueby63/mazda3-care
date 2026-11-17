@@ -1,12 +1,15 @@
 # Mazda3 Care
 
+**Open the app: https://blueby63.github.io/mazda3-care/** (install it from that page, not from this GitHub page)
+
 A personal, offline maintenance tracker and car guide for a 2025 Mazda3 Hatchback 2.5 S. It's an installable web app (PWA). Your records stay on your phone: no account, no server, no tracking.
 
 Car facts come from Mazda's 2025 Mazda3 owner's manual, Mazda's warranty pages, and NHTSA, with a source link on every fact (`data/car.json`). Not affiliated with Mazda.
 
 ## Install on your Android phone
-1. Open the site in **Chrome** on the phone.
-2. Tap **⋮ → Add to Home screen → Install**.
+1. Open **https://blueby63.github.io/mazda3-care/** in **Chrome** on the phone. If it opened inside the GitHub app or another app, tap **⋮ → Open in Chrome** first.
+2. Tap **⋮** (top right) and choose **Install app** or **Add to home screen → Install**. The wording depends on your Chrome version. You may also see an install icon in the address bar, or an "Install" pop-up at the bottom.
+   - Samsung Internet: tap **≡ → Add page to → Home screen**.
 3. Open it from the home screen icon and fill in the setup screen: in-service date, miles, and optionally your VIN.
 4. Test it once: turn on **airplane mode**, close the app fully (swipe it away), and reopen it. Everything should still work.
 
