@@ -1,6 +1,6 @@
 // Service worker: caches every app file so the app works fully offline.
 // To ship an update: change VERSION. Phones pick it up the next time the app opens online.
-const VERSION = 'v1.0.0';
+const VERSION = 'v1.0.1';
 const CACHE = `mazda3care-${VERSION}`;
 const FILES = [
   './', 'index.html', 'manifest.webmanifest', 'css/app.css',

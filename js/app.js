@@ -9,7 +9,7 @@ import log from './views/log.js';
 import guide from './views/guide.js';
 import more from './views/more.js';
 
-export const APP_VERSION = '1.0.0';
+export const APP_VERSION = '1.0.1';
 const views = { home, schedule, log, guide, more };
 const actions = {}, forms = {}, changes = {}, inputs = {};
 for (const v of Object.values(views)) {
@@ -83,6 +83,9 @@ window.addEventListener('hashchange', () => { closeSheet(); render(); });
 // ---------- service worker (offline + updates) ----------
 function setupServiceWorker() {
   if (!('serviceWorker' in navigator)) return;
+  // On the very first visit the worker takes control without an update; don't reload then
+  // (it would wipe a half-filled setup form). Only reload when replacing an older version.
+  const hadController = !!navigator.serviceWorker.controller;
   navigator.serviceWorker.register('sw.js').then(reg => {
     const notify = w => { S.updateReady = w; render(); };
     if (reg.waiting && navigator.serviceWorker.controller) notify(reg.waiting);
@@ -96,7 +99,7 @@ function setupServiceWorker() {
     document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'visible') reg.update().catch(() => {}); });
   }).catch(err => console.warn('Service worker failed', err));
   let reloading = false;
-  navigator.serviceWorker.addEventListener('controllerchange', () => { if (!reloading) { reloading = true; location.reload(); } });
+  navigator.serviceWorker.addEventListener('controllerchange', () => { if (hadController && !reloading) { reloading = true; location.reload(); } });
 }
 actions.applyUpdate = () => { S.updateReady?.postMessage('skipWaiting'); };
 
